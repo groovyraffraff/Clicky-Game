@@ -1,0 +1,74 @@
+[
+  {
+    "id": 0,
+    "name": "Darth Maul",
+    "image": "https://media.contentapi.ea.com/content/dam/star-wars-battlefront-2/images/2019/08/swbf2-refresh-hero-large-heroes-page-darth-maul-16x9-xl.jpg.adapt.crop1x1.320w.jpg",
+    "clicked": false
+  },
+  {
+    "id": 1,
+    "name": "Luke Skywalker",
+    "image": "https://lightsaberarchive.dcmjs.com/wp-content/uploads/luke6-square.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Darth Vader",
+    "image": "https://upload.wikimedia.org/wikipedia/en/7/76/Darth_Vader.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Obi Wan Kenobi",
+    "image": "https://lightsaberarchive.dcmjs.com/wp-content/uploads/obiwan1-square.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "Emperor Palpatine",
+    "image": "https://pbs.twimg.com/profile_images/1085887098744299520/4zHirQrP_400x400.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Rey",
+    "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/rey-star-wars-the-rise-of-skywalker-1567093372.jpg?crop=0.419xw:1.00xh;0.174xw,0&resize=480:*",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Supreme Leader Snoke",
+    "image": "https://i.imgur.com/9ZVhpWQ.png",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Finn",
+    "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/rise-of-skywalker-finn-po-1-jpg-1555090245.jpg?crop=0.41635124905374715xw:1xh;center,top&resize=480:*",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "Boba Fett",
+    "image": "http://d3nt9em9l1urz8.cloudfront.net/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/h/t/htmms463grn_5.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "Han Solo",
+    "image": "https://www.liveabout.com/thmb/NVrNfVxr0v4gE55NICarGXU71qw=/707x800/filters:fill(auto,1)/Han-Solo_Blaster-56a838bb5f9b58b7d0f1a42d.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "Kylo Ren",
+    "image": "https://hips.hearstapps.com/digitalspyuk.cdnds.net/17/01/1483548608-kylo-wo-mask.jpg?crop=0.718xw:1.00xh;0.128xw,0&resize=480:*",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "Princess Leia",
+    "image": "https://pbs.twimg.com/profile_images/922643782968811520/byJpqss2_400x400.jpg",
+    "clicked": false
+  }
+]

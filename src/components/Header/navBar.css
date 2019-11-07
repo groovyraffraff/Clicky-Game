@@ -1,0 +1,32 @@
+/*styles for navBar componetn*/
+
+.myNavBar {
+  background: #24a6ff;
+  color: white;
+  font-size: 22;
+  height: 75px;
+}
+
+a {
+  font-size: 28px !important;
+  color: white !important;
+  font-weight: bold !important;
+  display: inline-block !important;
+  padding: 5px 70px 20px 20px !important;
+}
+
+.nav-item {
+  display: inline-block;
+  padding: 13px 0px 10px 0px;
+  font-size: 24px;
+}
+
+.score {
+  padding: 13px 0px 10px 60px !important;
+}
+
+.userMsg {
+  font-size: 20px;
+  width: 300px;
+  text-align: center;
+}
