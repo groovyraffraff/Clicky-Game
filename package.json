@@ -17,7 +17,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "homepage": "link-to-your-repository"
+    "homepage": "https://groovyraffraff.github.io/Clicky-Game/"
     
   },
   "eslintConfig": {
