@@ -20,12 +20,17 @@
 .card > .img-container > img {
   width: 100%;
 }
+.card > .img-container > img :hover {
+animation-iteration-count: 3s;
+transition: transform .5s ease-in;
+overflow: hidden;
+}
 
 /*css card shake*/
 .shake {
   animation: shake 0.5s;
-  animation-iteration-count: 3s;
-}
+
+  }
 
 @keyframes shake {
   0% {

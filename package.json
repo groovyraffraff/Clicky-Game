@@ -18,7 +18,6 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "homepage": "https://groovyraffraff.github.io/Clicky-Game/"
-    
   },
   "eslintConfig": {
     "extends": "react-app"
