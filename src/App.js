@@ -11,7 +11,7 @@ class App extends Component {
   state = {
     cardInfo,
     score: 0,
-    topScore: 0,
+    highScore: 0,
     userMsg: "Click away! Don't click anything twice!",
     shake: false
   };
@@ -30,7 +30,7 @@ class App extends Component {
     this.setState({
       cardInfo: [...newCardReset],
       score: 0,
-      topScore: 0,
+      highScore: 0,
       userMsg: "You won! Click again to restart",
       shake: false
     });
@@ -59,7 +59,7 @@ class App extends Component {
       {
         cardInfo: [...newCardReset],
         score: 0,
-        topScore: this.state.topScore,
+        highScore: this.state.highScore,
         userMsg: "Incorrect Guess. Game Over.",
         shake: true
       },
@@ -117,8 +117,8 @@ class App extends Component {
       }
 
       //if user guesses correctly add one point to the score
-      else if (newScore >= this.state.topScore) {
-        this.setState({ topScore: newScore });
+      else if (newScore >= this.state.highScore) {
+        this.setState({ highScore: newScore });
       }
     }
     //if user guesses incorrectly, run gameReset function
@@ -135,7 +135,7 @@ class App extends Component {
         <Nav
           userMsg={this.state.userMsg}
           score={this.state.score}
-          topScore={this.state.topScore}
+          highScore={this.state.highScore}
         />
         {this.state.cardInfo.map((cardInfo, index) => (
           <GameCard

@@ -21,7 +21,7 @@ function Nav(props) {
         </div>
         <div className="col-sm navbar myNavBar">
           <li className="nav-item score">
-            Score: {props.score} | High Score: {props.topScore}
+            Score: {props.score} | High Score: {props.highScore}
           </li>
         </div>
       </div>
