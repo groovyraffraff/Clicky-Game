@@ -18,12 +18,14 @@
   background: white;
 }
 .card > .img-container > img {
-  width: 100%;
+  width: 100%;overflow: hidden;
 }
 .img:hover {
-animation-iteration-count: 3s;
-transition: transform .5s ease-in;
-overflow: hidden;
+  transition: transform .5s ease;
+}
+
+.img:hover img {
+  transform: scale(1.5);
 }
 
 /*css card shake*/
