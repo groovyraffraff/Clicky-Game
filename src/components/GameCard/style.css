@@ -20,7 +20,7 @@
 .card > .img-container > img {
   width: 100%;
 }
-.card > .img-container > img :hover {
+.img:hover {
 animation-iteration-count: 3s;
 transition: transform .5s ease-in;
 overflow: hidden;
